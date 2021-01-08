@@ -1,0 +1,11 @@
+#Create an empty Git repository or reinitialize an existing one
+git init
+
+#Add file contents to the index
+git add <filename>
+git add .
+
+#Show the working tree status
+git status
+git status -s
+
